@@ -1,3 +1,5 @@
+@file:Suppress("UNUSED_EXPRESSION")
+
 package com.topic3.android.reddit.screens
 
 import androidx.annotation.StringRes
